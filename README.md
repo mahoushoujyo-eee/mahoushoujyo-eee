@@ -121,7 +121,6 @@
     <picture>
       <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahoushoujyo-eee&theme=dark&hide_border=true" />
       <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahoushoujyo-eee&theme=light&hide_border=true" />
-      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahoushoujyo-eee&theme=dark&hide_border=true" />
     </picture>
     <div>&nbsp;</div>
     <!-- metrics -->
