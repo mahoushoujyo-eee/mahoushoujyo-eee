@@ -39,28 +39,27 @@
   
   <!-- 活跃折线图 -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahoushoujyo-eee&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahoushoujyo-eee&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
   
   <div>&nbsp;</div>
   
   <!-- GitHub 奖杯🏆 -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+  <div><img src="https://github-profile-trophy.vercel.app/?username=mahoushoujyo-eee&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 </div>
 
 <div>&nbsp;</div>
 
-# Hello 👋, here is Sue ~
+# Hello 👋, here is eee ~
 
 <table>
 <!-- 个人介绍 -->
 <tr><td>
 
 ### 🤺 About Me
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
 
 
@@ -72,13 +71,11 @@
 <tr><td>
 
 ### 🏢 Study Experience
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
 
 
   
 <div>&nbsp;</div>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
 
 
 
@@ -176,14 +173,6 @@
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 </div>
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
