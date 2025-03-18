@@ -125,7 +125,6 @@
     </picture>
     <div>&nbsp;</div>
     <!-- metrics -->
-    <img src="/github-metrics.svg">
 </div>
 
 ### 🧰 Tools:
