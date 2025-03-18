@@ -21,7 +21,7 @@
   <div>
     <!--a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /--></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=mahoushoujyo-eee&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
     <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
