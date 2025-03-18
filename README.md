@@ -39,7 +39,7 @@
   </picture>
   
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=buefy&hide_border=true" />
   
   
   <!-- 活跃折线图 -->
@@ -67,29 +67,9 @@
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
-就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
 
-- 🌱 以后的研究方向是频率方向的**机器学习**和集成学习，例如xgboost和bagging。
 
-- 📚 目前正在学习线性代数和机器学习的基础知识，以及应用常见的机器学习模型解决问题。
-
-- 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
-  
-- 💩 我的作品⏬⏬
-
-  - <a href="http://games.sparkflare.cn" target="_blank">>>网页小游戏</a>
-  
-  - <a href="http://sue.sparkflare.cn" target="_blank">>>个人博客</a>
-
-  - <a href="http://test.sparkflare.cn" target="_blank">>>数据标注平台（已停止维护）</a>
-
-- ✨ 我在语雀文档平台上记录我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
-
-- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史充满热情。
-
-- 👥 2024年初和朋友创业，是关于数据方向的，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
-
-<p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
+<p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 
 </td></tr>
 
@@ -99,19 +79,13 @@
 ### 🏢 Study Experience
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
 
-  - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
 
-    - 学院：信息与通信工程学院
-    - 专业：通信工程
   
 <div>&nbsp;</div>
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
 
-  - [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
 
-    - 学院：智能复杂体系基础理论与关键技术实验室
-    - 研究方向：机器学习，集成学习，大模型
 
 <div>&nbsp;</div>
 </td></tr>
@@ -122,47 +96,32 @@
 ### 🏭 Work Experience
 <img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
 
-- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11-25 —— 至今
 
-  - 工作岗位：智能感知与识别实习生
-  - 工作内容：建立机器学习模型，进行不平衡多维度数据的分类
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
 <img align="right" width="108" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/pjlab.png" />
 
-- [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06-07 —— 2024-11-05
 
-  - 工作岗位：AI4Science研究以及大模型实习生
-  - 工作内容：完成数据处理的pipeline的编排，大模型微调，推理，测评
 
 <div>&nbsp;</div>
 
 <img align="right" height="40" width="125" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
 
-- [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01-10 —— 至今
 
-  - 工作岗位：前端负责人，后端开发工程师
-  - 工作内容：数据标注软件平台开发，感受创业
 
 <div>&nbsp;</div>
 
 <img align="right" width="75" src="/assets/images/rusheng.png"/>
 
-- [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01-16 —— 2024.03.15
 
-  - 工作岗位：前端开发工程师
-  - 工作内容：数字化知识交互学习软件开发，uniapp+vue
 
 <div>&nbsp;</div>
 
 <img align="right" width="75" src="/assets/images/unionswap.png"/>
 
-- [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10-15 —— 2024.4.18
 
-  - 工作岗位：前端开发实习生
-  - 工作内容：海外二手交易平台开发，uniapp+vue
 
 <div>&nbsp;</div>
 </td></tr>
