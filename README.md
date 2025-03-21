@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href=s"https://helloworld.openeee.top" target="_blank">
+    <a href="https://helloworld.openeee.top" target="_blank">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm eee, welcome here!&center=true&size=27" />
     </a>
   </div>
