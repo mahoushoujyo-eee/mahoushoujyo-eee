@@ -68,7 +68,7 @@
 
 ### 🏢 Study Experience
 
-<p>&emsp;&emsp;<strong><b>南京师范大学</b></strong> <span style="float: right;">2023-至今</span></p>
+<p>&emsp;&emsp;<strong><b>南京师范大学</b></strong>nbsp;nbsp;nbsp;<span style="float: right;">2023.9-至今</span></p>
   
 <div>&nbsp;</div>
 
