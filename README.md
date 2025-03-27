@@ -59,7 +59,7 @@
 
 
 
-<p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>&emsp;&emsp;Go be a great developer, We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 
 </td></tr>
 
@@ -68,7 +68,7 @@
 
 ### 🏢 Study Experience
 
-
+<p>&emsp;&emsp;南京师范大学 2023-至今</p>
   
 <div>&nbsp;</div>
 
