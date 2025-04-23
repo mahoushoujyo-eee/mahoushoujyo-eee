@@ -59,7 +59,7 @@
 
 
 
-<p>&emsp;&emsp;Welcome to my GitHub homepage. You can <a href="helloworld.openeee.cn" target="blank">click here</a> to visit my personal website homepage to learn more. The directories I have uploaded are all some relatively loose learning projects. I hope you can communicate with me more.</p>
+<p>&emsp;&emsp;Welcome to my GitHub homepage. You can <a href="http://helloworld.openeee.cn" target="blank">click here</a> to visit my personal website homepage to learn more. The directories I have uploaded are all some relatively loose learning projects. I hope you can communicate with me more.</p>
 
 </td></tr>
 
