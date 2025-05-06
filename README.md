@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  <!-- dynamic typing effect 动态打字效果 >
   <div onclick="window.open("http://helloworld.openeee.cn")">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There+is+eee!" alt="Typing SVG" style="text-align='center'" /></a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
+  < knock code pictures 敲代码的图片 >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
-  </picture>
+  </picture-->
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
