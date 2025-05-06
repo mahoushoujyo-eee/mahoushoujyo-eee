@@ -2,9 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://helloworld.openeee.cn" target="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm eee, welcome here!&center=true&size=27" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There+is+eee!" alt="Typing SVG" /></a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
