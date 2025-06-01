@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 >
   <div onclick="window.open("http://helloworld.openeee.cn")">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There+is+eee!" alt="Typing SVG" style="text-align='center'" /></a>
   </div>
 
-  < knock code pictures 敲代码的图片 >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
@@ -46,50 +44,6 @@
 </div>
 
 <div>&nbsp;</div>
-
-# Hello 👋, here is eee ~
-
-<table>
-<!-- 个人介绍 -->
-<tr><td>
-
-### 🤺 About Me
-
-
-
-<p>&emsp;&emsp;Welcome to my GitHub homepage. You can <a href="http://helloworld.openeee.cn" target="blank">click here</a> to visit my personal website homepage to learn more. The directories I have uploaded are all some relatively loose learning projects. I hope you can communicate with me more.</p>
-
-</td></tr>
-
-<!-- 就读经历 -->
-<tr><td>
-
-### 🏢 Study Experience
-
-<p>&emsp;&emsp;<strong><b>Nanjing Normal University</b></strong>&nbsp;&nbsp;&nbsp;<span style="float: right;">2023.9-now</span></p>
-  
-<div>&nbsp;</div>
-
-
-
-
-<div>&nbsp;</div>
-</td></tr>
-
-<!-- 工作经历 >
-<tr><td>
-
-### 🏭 Work Experience
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-</td></tr-->
-</table>
-
-
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -141,18 +95,3 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
 </div>
-
-<!--
-**buptsdz/buptsdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
