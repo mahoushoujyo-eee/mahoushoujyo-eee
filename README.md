@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There+is+eee!" alt="Typing SVG" style="text-align='center'" /></a>
   </div -->
 
-  <picture>
+  <!-- picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
@@ -12,21 +12,12 @@
 
   <div>&nbsp;</div>
   
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <!--a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /--></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=mahoushoujyo-eee&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->
-    <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
-  </div>
-  
-  <!-- 活跃贪吃蛇 -->
+  <!-- 活跃贪吃蛇>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
-  </picture>
+  </picture -->
   
   <!-- 个人信息统计 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=buefy&hide_border=false&hide=html,css,javascript&langs_count=5" />
@@ -91,4 +82,13 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
+  <div>
+    <!--a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /--></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=mahoushoujyo-eee&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->
+    <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
+  </div>
 </div>
+
+
