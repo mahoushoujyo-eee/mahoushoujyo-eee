@@ -29,7 +29,7 @@
   </picture>
   
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=buefy&hide_border=false&langs_count=8" />
   
   
   <!-- 活跃折线图 -->
