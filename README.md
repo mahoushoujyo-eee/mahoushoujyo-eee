@@ -1,8 +1,8 @@
 <div align="center">
 
-  <div onclick="window.open("http://helloworld.openeee.cn")">
+  <!-- div onclick="window.open("http://helloworld.openeee.cn")">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There+is+eee!" alt="Typing SVG" style="text-align='center'" /></a>
-  </div>
+  </div -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
@@ -10,7 +10,6 @@
     <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
   </picture-->
 
-  <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
@@ -55,8 +54,6 @@
     <!-- metrics -->
 </div>
 
-### 🧰 Tools:
-<!--  skill badge 技能徽章 -->
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
@@ -65,22 +62,19 @@
 
 </div>
 
-<div align="center">
-  <!-- svg动图 -->
+< div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   
-  <!-- svg静态图 -->
   <img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,gmail,unity,mongodb,c,cpp"/>
 </div>
 
-<!-- Gif -->
 <div align="center">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
@@ -90,7 +84,7 @@
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-</div>
+</div -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
