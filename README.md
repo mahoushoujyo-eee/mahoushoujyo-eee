@@ -20,7 +20,24 @@
   </picture -->
   
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&hide_border=true" alt="eee's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=buefy&hide_border=false&hide=html,css,javascript&langs_count=5" />
+  <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=css" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=handsomeZR-netizen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
   
   
   <!-- 活跃折线图 -->
