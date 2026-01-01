@@ -33,11 +33,11 @@
   </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=handsomeZR-netizen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
-</div>
+</div> -->
   
   
   <!-- 活跃折线图 -->
