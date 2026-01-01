@@ -27,9 +27,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,js" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,js" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,js" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,javascript" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,javascript" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahoushoujyo-eee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,javascript" alt="Top Languages" />
 </picture>
 </div>
 
