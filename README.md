@@ -23,7 +23,7 @@
   <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=css" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=css,html,js" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahoushoujyo-eee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </picture>
   <picture>
