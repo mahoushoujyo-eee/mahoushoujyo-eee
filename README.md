@@ -21,13 +21,6 @@
 
 ---
 
-## 👋 关于我
-
-- 🧑‍💻 主力 Java / Python，最近在写 Go，前端用 Vue 拼页面
-- 🐳 服务器上的事基本交给 Docker + Kubernetes + Nginx
-- 🧩 偶尔拆点东西，看看里面到底怎么转的
-- 📮 有事可以邮件找我：**1653545106@qq.com**
-
 ## 🛠 技术栈
 
 <div align="center">
@@ -42,13 +35,6 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,mysql,mongodb,git,linux,ubuntu&perline=8" alt="Infra & Tools" />
 
 </div>
-
-## 🧪 最近在折腾
-
-- ☸️ **K8s** —— 边搭集群边补概念：[LearningK8s](https://github.com/mahoushoujyo-eee/LearningK8s)
-- 🌱 **Spring AI** —— 把大模型接进 Java 后端：[LearningSpringAI](https://github.com/mahoushoujyo-eee/LearningSpringAI)
-- 🔗 **LangChain** —— 顺一遍 RAG 那套东西：[LearningLangChain](https://github.com/mahoushoujyo-eee/LearningLangChain)
-- 🚀 **CloudWeGo** —— eino / Hertz 的样例：[HertzAndEinoDemo](https://github.com/mahoushoujyo-eee/HertzAndEinoDemo)
 
 ## 📊 数据面板
 
